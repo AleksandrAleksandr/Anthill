@@ -1,0 +1,46 @@
+﻿  Organism.cpp
+  Enemy.cpp
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(10): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(11): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(56): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(66): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(74): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(75): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(87): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(88): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(106): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(107): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(112): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(113): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(118): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(119): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(124): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(125): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(131): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(132): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(133): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(144): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(164): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(166): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(172): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(174): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+c:\users\александр\documents\visual studio 2017\projects\project-anthill\project-anthill\enemy.cpp(177): warning C4715: Enemy::findAnt: значение возвращается не при всех путях выполнения
+  Компиляция...
+  World.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Anthill.cpp
+  main.cpp
+  Mother.cpp
+  Ant.cpp
+  project-anthill.vcxproj -> C:\Users\Александр\Documents\Visual Studio 2017\projects\project-anthill\x64\Debug\project-anthill.exe
